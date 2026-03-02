@@ -45,6 +45,6 @@ Análise de indicadores educacionais
 Uso de ferramentas digitais educacionais
 
 # Contato
-LinkedIn: [https://www.linkedin.com/in/f%C3%A1tima-daniela-carvalho-de-sousa-59936b197/](https://acesse.one/linkedinfatima)
-Curriculo Lattes: [https://lattes.cnpq.br/1772674294939543](https://sl1nk.com/lattesfatima)
+LinkedIn: [[https://www.linkedin.com/in/f%C3%A1tima-daniela-carvalho-de-sousa-59936b197/]](https://www.linkedin.com/in/f%C3%A1tima-daniela-carvalho-de-sousa-59936b197/)
+Curriculo Lattes: [[(https://lattes.cnpq.br/1772674294939543](https://lattes.cnpq.br/1772674294939543)]
 E-mail: fatimaprogeo@gmail.com
